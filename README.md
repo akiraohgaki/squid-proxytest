@@ -1,6 +1,10 @@
 # squid-proxytest
 
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-latest-black?logo=docker&logoColor=white&labelColor=blue)](https://hub.docker.com/r/akiraohgaki/devbox)
+
 Squid proxy server for testing.
+
+## Usage
 
 To start the proxy server, run the following in your terminal.
 
