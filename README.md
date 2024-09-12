@@ -1,6 +1,6 @@
 # squid-proxytest
 
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-latest-black?logo=docker&logoColor=white&labelColor=blue)](https://hub.docker.com/r/akiraohgaki/devbox)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-latest-black?logo=docker&logoColor=white&labelColor=blue)](https://hub.docker.com/r/akiraohgaki/squid-proxytest)
 
 Squid proxy server for testing.
 
